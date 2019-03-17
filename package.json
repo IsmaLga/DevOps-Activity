@@ -1,0 +1,27 @@
+{
+  "name": "DevOps-Activity",
+  "version": "1.0.0",
+  "description": "DevOps assignment for TC3045 course at Tecnológico de Monterrey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmaLga/DevOps-Activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsmaLga/DevOps-Activity/issues"
+  },
+  "homepage": "https://github.com/IsmaLga/DevOps-Activity#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.3",
+    "shelljs": "^0.8.3",
+    "sqlite3": "^4.0.6"
+  }
+}
